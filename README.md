@@ -1,2 +1,3 @@
 # vaibhav
-this is my first github repo
+this is my first github repogit status
+i am vaibhav chandhok(building my empire)
